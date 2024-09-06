@@ -1,4 +1,4 @@
-# Analise-de-Fatura-por-Gr-ficos
+# Analise-de-Fatura-por-Gráficos
 Este projeto realiza uma análise de dados de faturas, onde utilizei Python e as bibliotecas **Pandas**, **Seaborn** e **Matplotlib** para a geração dos gráficos. O conjunto de dados contém informações de compras realizadas por diferentes pessoas, registrando nome, número do cartão, data, hora, categoria, estabelecimento e valor da compra.
 
 # Análise de Faturas com Python, Pandas, Seaborn e Matplotlib
